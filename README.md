@@ -37,7 +37,7 @@ Logistic Regression was used as a baseline model to establish reference performa
 A Decision Tree model was evaluated to capture non-linear decision rules and feature interactions.
 
 - Multiple maximum depths were tested to study model complexity
-- Moderate depth produced the best precision–recall balance
+- Moderate depth produced the best precision-recall balance
 - Deeper trees overfit and became unstable
 
 ### Random Forest (Final Model)
